@@ -1,0 +1,25 @@
+{
+	"words": [{
+		"word": "First",
+		"definition": "1st"
+	}, {
+		"word": "Secound",
+		"definition": "2nd"
+	}, {
+		"word": "third",
+		"definition": "3rd"
+	}, {
+		"word": "fourth",
+		"definition": "4th"
+    }, {
+		"word": "five",
+		"definition": "5th"
+    }, {
+		"word": "Six",
+		"definition": "six"
+    }, {
+		"word": "Seven",
+		"definition": "7th"
+    }
+]
+}
